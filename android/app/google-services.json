@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "502253922422",
+    "firebase_url": "https://mealup-af29b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mealup-af29b",
+    "storage_bucket": "mealup-af29b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502253922422:android:2e2f6547bfeae236701757",
+        "android_client_info": {
+          "package_name": "app.saasmonsk.mealup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502253922422-s4hcetar1q2jb1inb41oltne2akrbdao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.saasmonsk.mealup",
+            "certificate_hash": "0c7b7ed3539494cb59a2fce8bace10ae5e6ccbbb"
+          }
+        },
+        {
+          "client_id": "502253922422-b1e5r6i262ip36666q6j40ks0ucj7uqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC722m_Pyw3ozc_KVVfRIPfRi0olN7lMos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502253922422-b1e5r6i262ip36666q6j40ks0ucj7uqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502253922422:android:343e35516b0b5480701757",
+        "android_client_info": {
+          "package_name": "com.example.ozpos_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502253922422-6vdi94l4sbkeij2cs9b7ha6c2t4k5hkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ozpos_driver",
+            "certificate_hash": "0c7b7ed3539494cb59a2fce8bace10ae5e6ccbbb"
+          }
+        },
+        {
+          "client_id": "502253922422-b1e5r6i262ip36666q6j40ks0ucj7uqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC722m_Pyw3ozc_KVVfRIPfRi0olN7lMos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502253922422-b1e5r6i262ip36666q6j40ks0ucj7uqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502253922422:android:411d0a1aa9f7cc3e701757",
+        "android_client_info": {
+          "package_name": "com.ozpos.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502253922422-nej98qjvkui5ulqrq7l6stm6ju6o5hct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozpos.driver",
+            "certificate_hash": "670ebe90f1f74f1571ab47fa709951933fedd566"
+          }
+        },
+        {
+          "client_id": "502253922422-b1e5r6i262ip36666q6j40ks0ucj7uqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC722m_Pyw3ozc_KVVfRIPfRi0olN7lMos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502253922422-b1e5r6i262ip36666q6j40ks0ucj7uqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
