@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 C:\Users\ahmed\StudioProjects\driver_3_0_5\build\app\outputs\flutter-apk
+C:\Users\ahmed\StudioProjects\driver_3_0_5\build\app\outputs\bundle\release
